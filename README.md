@@ -2,4 +2,4 @@
 
 $EPM SmartToken specification:
 
-Max issuing capacity : 100.000.000
+Max issuing capacity : 1000.000.000
